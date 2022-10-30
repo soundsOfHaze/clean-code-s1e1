@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .matrix-image { 
     text-align: center;
 }
+
 }
 .center-element {
   display: block;
